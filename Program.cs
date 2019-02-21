@@ -13,6 +13,8 @@ namespace ConsoleApp1
             Console.Writeline("Крутько Иван");
             Console.Writeline("Пожидаева Марина");
             Console.WriteLine("Akubara");
+            Console.WriteLine("PRO_DEVELOPER_VITALYA");
+
         }
     }
 }
